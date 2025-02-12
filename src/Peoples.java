@@ -1,3 +1,4 @@
+package src;
 public class Peoples {
     private String nome;
     private String idade;
@@ -18,4 +19,5 @@ public class Peoples {
         this.nome = nome;
     }
 
+    
 }
